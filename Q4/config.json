@@ -1,0 +1,8 @@
+{
+  "INITIAL_SSTHRESH": 8,
+  "TRANSMISSION_ROUNDS": 100,
+  "MSS": 1,
+  "LOSS_EVENT_RANDOM": true,
+  "LOSS_EVENT_PROBABILITY": 0.05,
+  "LOSS_EVENT_INTERVALS": ["12", "16", "37", "52", "68", "77", "89", "93", "99"]
+}

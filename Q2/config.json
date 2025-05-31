@@ -1,0 +1,5 @@
+{
+  "CORRUPTION_PROB": 0.2,
+  "LOSS_PROB": 0.2,
+  "TIMEOUT_SEC": 2.0
+}
